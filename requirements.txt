@@ -1,0 +1,6 @@
+gradio
+langchain
+faiss-cpu
+ibm-watsonx-ai
+langchain_ibm
+sentence-transformers
